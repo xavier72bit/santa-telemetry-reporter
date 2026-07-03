@@ -3,6 +3,7 @@ name = "santa_telemery_reporter"
 version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
+    "maturin>=1.14.1",
     "protobuf>=7.35.1",
     "zstandard>=0.25.0",
 ]
